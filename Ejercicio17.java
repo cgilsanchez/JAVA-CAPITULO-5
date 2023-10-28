@@ -15,6 +15,7 @@ public class Ejercicio17 {
         }else{
             System.out.println("Introdizca un numero positivo");
         }
+        
         sc.close();
     }
 }
