@@ -30,5 +30,6 @@ public class Ejercicio21 {
         System.out.println("Se han introducido " + contador + " numeros");
         System.out.println("La media de los numeros impares es de: " + media/contnega);
         sc.close();
+        
     }
 }
