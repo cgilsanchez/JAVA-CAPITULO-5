@@ -11,6 +11,7 @@ public class Ejercicio18 {
             System.out.println(i);
             i+=6;
             
+            
         }
         sc.close();
     }
