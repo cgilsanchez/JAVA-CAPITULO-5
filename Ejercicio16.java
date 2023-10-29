@@ -12,8 +12,9 @@ public class Ejercicio16 {
             }else{
                 System.out.println("El numero es primo");
             }
+            
         }
-        
+
         sc.close();
     }
 }
