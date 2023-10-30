@@ -9,7 +9,7 @@ public class Ejercicio29 {
         int num2=sc.nextInt();
             
         for(int i = num1;i>=1;i--){
-                if(i%2!=0){
+                if(i%num2!=0){
                     System.out.println(i);
                 }
             }
