@@ -11,6 +11,7 @@ public class Ejercicio28 {
             factorial = factorial*i;
             
         }
+        
         System.out.println(n + "! = "+ factorial);
         sc.close();
     }
