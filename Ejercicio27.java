@@ -10,6 +10,7 @@ public class Ejercicio27 {
                 System.out.println("Los multiplos de 3 son :");
                 System.out.print(i);
             }
+            
         }
         sc.close();
     }
