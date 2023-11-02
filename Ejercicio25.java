@@ -10,6 +10,7 @@ public class Ejercicio25 {
             volteado = volteado*10+n%10;
             n=n/10;
         }
+        
         System.out.println("El numero al reves es: "+ volteado);
         sc.close();
     }
