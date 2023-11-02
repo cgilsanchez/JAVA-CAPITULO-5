@@ -20,6 +20,7 @@ public class Ejercicio23 {
                     System.out.println("La suma es: "+media+" El contador es: "+contador+" La media es: "+promedio);
                 }
                 
+                
         }
         
         
