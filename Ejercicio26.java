@@ -24,6 +24,7 @@ public class Ejercicio26 {
             System.out.println("El digito ocupa la posicion "+ contador);
             }
         
+            
         
         }
     sc.close();
