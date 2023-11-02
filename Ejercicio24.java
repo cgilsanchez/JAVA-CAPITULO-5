@@ -20,6 +20,7 @@ public class Ejercicio24 {
                 System.out.print(" ");
             }
 
+            
             // Imprimir los números
             for (int j = 1; j <= i; j++) {
                 System.out.print(j);
