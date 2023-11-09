@@ -3,5 +3,6 @@ public class Ejercicio43 {
         System.out.print("Por favor, introduzca un numero entero positivo: ");
         long n = Long.parseLong(System.console().readLine());
         
+        
     }
 }
